@@ -1,0 +1,6 @@
+framework module Pods_DownloadFile {
+  umbrella header "Pods-DownloadFile-umbrella.h"
+
+  export *
+  module * { export * }
+}
